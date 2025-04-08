@@ -1,0 +1,18 @@
+/* Submit Button */
+.registration-container button {
+    width: 100%;
+    padding: 12px;
+    margin-top: 10px;
+    background: #007bff;
+    border: none;
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .registration-container button:hover {
+    background: #0056b3;
+  }
+  
